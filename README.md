@@ -1,7 +1,7 @@
 # Arduino_Sketches
 Sketches for: A Novice Guide to Arduino Programming
 
-#INSTRUCTIONS
+# INSTRUCTIONS
 
 Open Arduino IDE
 Click File menu, then New project
