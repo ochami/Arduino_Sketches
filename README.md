@@ -1,2 +1,2 @@
 # Arduino_Sketches
-Sketches for: A Novel Guide to Arduino Programming
+Sketches for: A Novice Guide to Arduino Programming
